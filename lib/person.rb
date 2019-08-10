@@ -1,8 +1,7 @@
 class Person 
   
   
-  
-  
+def name
   
   
   
