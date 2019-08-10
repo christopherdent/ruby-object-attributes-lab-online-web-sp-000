@@ -1,2 +1,16 @@
 class Person 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+end 
